@@ -1,5 +1,6 @@
 {
  "latest": "2026-09",
+ "sample": true,
  "series": [
   {
    "period": "2023-01",

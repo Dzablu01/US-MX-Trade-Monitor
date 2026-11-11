@@ -1,0 +1,13 @@
+{
+ "run_at": "2026-11-11T15:36:25+00:00",
+ "sources": {
+  "census": {
+   "ok": true,
+   "note": "latest 2026-09; The U.S. deficit with Mexico widened by $10.8 bn from September 2025. Imports from Mexico changed +17.7 bn (+39.6%) and U.S. exports +6.9 bn (+25.2%). Main drivers: vehicles and parts (-3.4 bn); computers and machinery (-3.0 bn). Partly offset by mineral fuels (oil, gas, refined) (+0.9 bn)."
+  },
+  "banxico": {
+   "ok": true,
+   "note": "skipped in sample mode"
+  }
+ }
+}
