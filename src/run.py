@@ -63,12 +63,25 @@ def build_banxico(sample):
     return msg + (f"; series IDs with no data: {missing}" if missing else "")
 
 
+def build_inegi(sample):
+    if sample:
+        return "skipped in sample mode"
+    if not os.environ.get("INEGI_TOKEN"):
+        raise RuntimeError("INEGI_TOKEN secret not set")
+    import inegi
+    series, problems = inegi.fetch()
+    write("inegi.json", {"series": series, "problems": problems})
+    msg = "; ".join(f"{s['series_id']} = \"{s['inegi_title']}\" latest {s['data'][-1]['period']}: {s['data'][-1]['value']}"
+                    for s in series.values() if s["data"])
+    return msg + (f"; problems: {problems}" if problems else "")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--sample", action="store_true")
     args = ap.parse_args()
     status = {"run_at": datetime.now(timezone.utc).isoformat(timespec="seconds"), "sources": {}}
-    for name, fn in (("census", build_census), ("banxico", build_banxico)):
+    for name, fn in (("census", build_census), ("banxico", build_banxico), ("inegi", build_inegi)):
         try:
             status["sources"][name] = {"ok": True, "note": fn(args.sample)}
         except Exception as e:  # keep going; record the problem
