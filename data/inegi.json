@@ -1,0 +1,8 @@
+{
+ "series": {},
+ "problems": [
+  "628229 (Inflation (INPC)): RuntimeError: INEGI HTTP 400: '[\"ErrorInfo:No se encontraron resultados\",\"ErrorDetails:No se encontraron resultados\",\"ErrorCode:100\"]'",
+  "737121 (IGAE (monthly activity)): RuntimeError: INEGI HTTP 400: '[\"ErrorInfo:No se encontraron resultados\",\"ErrorDetails:No se encontraron resultados\",\"ErrorCode:100\"]'",
+  "444612 (Unemployment rate): RuntimeError: INEGI HTTP 400: '[\"ErrorInfo:No se encontraron resultados\",\"ErrorDetails:No se encontraron resultados\",\"ErrorCode:100\"]'"
+ ]
+}
