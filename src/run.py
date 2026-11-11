@@ -35,7 +35,7 @@ def build_census(sample):
     else:
         import census
         hs2 = census.fetch("HS2", start="2019-01")
-        hs10 = census.fetch("HS10", start="2024-01")
+        hs10 = census.fetch("HS10", start="2024-07", with_exports=False)
     latest = hs2["period"].max()
     series = analysis.monthly_series(hs2)
     breakdown = {}
