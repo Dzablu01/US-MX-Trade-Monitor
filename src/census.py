@@ -21,8 +21,13 @@ def _get(url, params, retries=3):
     for attempt in range(retries):
         r = requests.get(url, params=params, timeout=60)
         if r.status_code == 200:
-            rows = r.json()
+            try:
+                rows = r.json()
+            except ValueError:
+                raise RuntimeError(f"Census returned non-JSON (HTTP 200) for {r.url.split('key=')[0]}: {r.text[:400]!r}")
             return pd.DataFrame(rows[1:], columns=rows[0])
+        if r.status_code in (400, 401, 403):
+            raise RuntimeError(f"Census HTTP {r.status_code}: {r.text[:400]!r}")
         if r.status_code == 204:  # no data for that query
             return pd.DataFrame()
         time.sleep(2 ** attempt)
