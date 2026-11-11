@@ -19370,6 +19370,393 @@
     }
    ]
   },
+  "inpc": {
+   "id": "inpc",
+   "en": "Consumer prices (INPC index)",
+   "es": "INPC (índice general)",
+   "unit": "index",
+   "freq": "monthly",
+   "series_id": "SP1",
+   "title_banxico": "IPC Por objeto del gasto                                                         Nacional I n d i c e   G e n e r a l",
+   "data": [
+    {
+     "date": "2019-01-01",
+     "value": 103.108
+    },
+    {
+     "date": "2019-02-01",
+     "value": 103.079
+    },
+    {
+     "date": "2019-03-01",
+     "value": 103.476
+    },
+    {
+     "date": "2019-04-01",
+     "value": 103.531
+    },
+    {
+     "date": "2019-05-01",
+     "value": 103.233
+    },
+    {
+     "date": "2019-06-01",
+     "value": 103.299
+    },
+    {
+     "date": "2019-07-01",
+     "value": 103.687
+    },
+    {
+     "date": "2019-08-01",
+     "value": 103.67
+    },
+    {
+     "date": "2019-09-01",
+     "value": 103.942
+    },
+    {
+     "date": "2019-10-01",
+     "value": 104.503
+    },
+    {
+     "date": "2019-11-01",
+     "value": 105.346
+    },
+    {
+     "date": "2019-12-01",
+     "value": 105.934
+    },
+    {
+     "date": "2020-01-01",
+     "value": 106.447
+    },
+    {
+     "date": "2020-02-01",
+     "value": 106.889
+    },
+    {
+     "date": "2020-03-01",
+     "value": 106.838
+    },
+    {
+     "date": "2020-04-01",
+     "value": 105.755
+    },
+    {
+     "date": "2020-05-01",
+     "value": 106.162
+    },
+    {
+     "date": "2020-06-01",
+     "value": 106.743
+    },
+    {
+     "date": "2020-07-01",
+     "value": 107.444
+    },
+    {
+     "date": "2020-08-01",
+     "value": 107.867
+    },
+    {
+     "date": "2020-09-01",
+     "value": 108.114
+    },
+    {
+     "date": "2020-10-01",
+     "value": 108.774
+    },
+    {
+     "date": "2020-11-01",
+     "value": 108.856
+    },
+    {
+     "date": "2020-12-01",
+     "value": 109.271
+    },
+    {
+     "date": "2021-01-01",
+     "value": 110.21
+    },
+    {
+     "date": "2021-02-01",
+     "value": 110.907
+    },
+    {
+     "date": "2021-03-01",
+     "value": 111.824
+    },
+    {
+     "date": "2021-04-01",
+     "value": 112.19
+    },
+    {
+     "date": "2021-05-01",
+     "value": 112.419
+    },
+    {
+     "date": "2021-06-01",
+     "value": 113.018
+    },
+    {
+     "date": "2021-07-01",
+     "value": 113.682
+    },
+    {
+     "date": "2021-08-01",
+     "value": 113.899
+    },
+    {
+     "date": "2021-09-01",
+     "value": 114.601
+    },
+    {
+     "date": "2021-10-01",
+     "value": 115.561
+    },
+    {
+     "date": "2021-11-01",
+     "value": 116.884
+    },
+    {
+     "date": "2021-12-01",
+     "value": 117.308
+    },
+    {
+     "date": "2022-01-01",
+     "value": 118.002
+    },
+    {
+     "date": "2022-02-01",
+     "value": 118.981
+    },
+    {
+     "date": "2022-03-01",
+     "value": 120.159
+    },
+    {
+     "date": "2022-04-01",
+     "value": 120.809
+    },
+    {
+     "date": "2022-05-01",
+     "value": 121.022
+    },
+    {
+     "date": "2022-06-01",
+     "value": 122.044
+    },
+    {
+     "date": "2022-07-01",
+     "value": 122.948
+    },
+    {
+     "date": "2022-08-01",
+     "value": 123.803
+    },
+    {
+     "date": "2022-09-01",
+     "value": 124.571
+    },
+    {
+     "date": "2022-10-01",
+     "value": 125.276
+    },
+    {
+     "date": "2022-11-01",
+     "value": 125.997
+    },
+    {
+     "date": "2022-12-01",
+     "value": 126.478
+    },
+    {
+     "date": "2023-01-01",
+     "value": 127.336
+    },
+    {
+     "date": "2023-02-01",
+     "value": 128.046
+    },
+    {
+     "date": "2023-03-01",
+     "value": 128.389
+    },
+    {
+     "date": "2023-04-01",
+     "value": 128.363
+    },
+    {
+     "date": "2023-05-01",
+     "value": 128.084
+    },
+    {
+     "date": "2023-06-01",
+     "value": 128.214
+    },
+    {
+     "date": "2023-07-01",
+     "value": 128.832
+    },
+    {
+     "date": "2023-08-01",
+     "value": 129.545
+    },
+    {
+     "date": "2023-09-01",
+     "value": 130.12
+    },
+    {
+     "date": "2023-10-01",
+     "value": 130.609
+    },
+    {
+     "date": "2023-11-01",
+     "value": 131.445
+    },
+    {
+     "date": "2023-12-01",
+     "value": 132.373
+    },
+    {
+     "date": "2024-01-01",
+     "value": 133.555
+    },
+    {
+     "date": "2024-02-01",
+     "value": 133.681
+    },
+    {
+     "date": "2024-03-01",
+     "value": 134.065
+    },
+    {
+     "date": "2024-04-01",
+     "value": 134.336
+    },
+    {
+     "date": "2024-05-01",
+     "value": 134.087
+    },
+    {
+     "date": "2024-06-01",
+     "value": 134.594
+    },
+    {
+     "date": "2024-07-01",
+     "value": 136.003
+    },
+    {
+     "date": "2024-08-01",
+     "value": 136.013
+    },
+    {
+     "date": "2024-09-01",
+     "value": 136.08
+    },
+    {
+     "date": "2024-10-01",
+     "value": 136.828
+    },
+    {
+     "date": "2024-11-01",
+     "value": 137.424
+    },
+    {
+     "date": "2024-12-01",
+     "value": 137.949
+    },
+    {
+     "date": "2025-01-01",
+     "value": 138.343
+    },
+    {
+     "date": "2025-02-01",
+     "value": 138.726
+    },
+    {
+     "date": "2025-03-01",
+     "value": 139.161
+    },
+    {
+     "date": "2025-04-01",
+     "value": 139.62
+    },
+    {
+     "date": "2025-05-01",
+     "value": 140.012
+    },
+    {
+     "date": "2025-06-01",
+     "value": 140.405
+    },
+    {
+     "date": "2025-07-01",
+     "value": 140.78
+    },
+    {
+     "date": "2025-08-01",
+     "value": 140.867
+    },
+    {
+     "date": "2025-09-01",
+     "value": 141.197
+    },
+    {
+     "date": "2025-10-01",
+     "value": 141.708
+    },
+    {
+     "date": "2025-11-01",
+     "value": 142.645
+    },
+    {
+     "date": "2025-12-01",
+     "value": 143.042
+    },
+    {
+     "date": "2026-01-01",
+     "value": 143.588
+    },
+    {
+     "date": "2026-02-01",
+     "value": 144.307
+    },
+    {
+     "date": "2026-03-01",
+     "value": 145.544
+    },
+    {
+     "date": "2026-04-01",
+     "value": 145.831
+    },
+    {
+     "date": "2026-05-01",
+     "value": 145.527
+    },
+    {
+     "date": "2026-06-01",
+     "value": 145.131
+    },
+    {
+     "date": "2026-07-01",
+     "value": 145.169
+    },
+    {
+     "date": "2026-08-01",
+     "value": 145.462
+    },
+    {
+     "date": "2026-09-01",
+     "value": 146.075
+    },
+    {
+     "date": "2026-10-01",
+     "value": 147.026
+    }
+   ]
+  },
   "remittances": {
    "id": "remittances",
    "en": "Remittances",
@@ -19756,6 +20143,7 @@
  },
  "summary": {
   "usdmxn_fix": {
+   "title_banxico": "Tipo de cambio                                          Pesos por dólar E.U.A. Tipo de cambio para solventar obligaciones denominadas en moneda extranjera Fecha de determinación (FIX)",
    "en": "USD/MXN (FIX)",
    "es": "Tipo de cambio FIX",
    "unit": "MXN per USD",
@@ -19765,6 +20153,7 @@
    "year_ago": 18.3922
   },
   "policy_rate": {
+   "title_banxico": "Tasa objetivo",
    "en": "Banxico policy rate",
    "es": "Tasa objetivo de Banxico",
    "unit": "%",
@@ -19773,7 +20162,18 @@
    "prev": 6.25,
    "year_ago": 7.25
   },
+  "inpc": {
+   "title_banxico": "IPC Por objeto del gasto                                                         Nacional I n d i c e   G e n e r a l",
+   "en": "Consumer prices (INPC index)",
+   "es": "INPC (índice general)",
+   "unit": "index",
+   "date": "2026-10-01",
+   "value": 147.026,
+   "prev": 146.075,
+   "year_ago": 141.708
+  },
   "remittances": {
+   "title_banxico": "Remesas Familiares Total",
    "en": "Remittances",
    "es": "Remesas",
    "unit": "US$ mn",
