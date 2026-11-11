@@ -1,4 +1,4 @@
-# US–Mexico Vitals
+# US–Mexico Trade Monitor
 
 Trade, data and policy signals for the U.S.–Mexico relationship.
 
