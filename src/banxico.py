@@ -11,6 +11,7 @@ BASE = "https://www.banxico.org.mx/SieAPIRest/service/v1/series"
 SERIES = {
     "SF43718": {"id": "usdmxn_fix", "en": "USD/MXN (FIX)", "es": "Tipo de cambio FIX", "unit": "MXN per USD", "freq": "daily"},
     "SF61745": {"id": "policy_rate", "en": "Banxico policy rate", "es": "Tasa objetivo de Banxico", "unit": "%", "freq": "daily"},
+    "SP1": {"id": "inpc", "en": "Consumer prices (INPC index)", "es": "INPC (índice general)", "unit": "index", "freq": "monthly"},
     "SE27803": {"id": "remittances", "en": "Remittances", "es": "Remesas", "unit": "US$ mn", "freq": "monthly"},
 }
 
@@ -46,6 +47,7 @@ def latest_summary(series):
         last = df.iloc[-1]
         year_ago = df[df["date"] <= last["date"] - pd.DateOffset(years=1)]
         summary[key] = {
+            "title_banxico": s.get("title_banxico"),
             "en": s["en"], "es": s["es"], "unit": s["unit"],
             "date": last["date"].strftime("%Y-%m-%d"), "value": float(last["value"]),
             "prev": float(df.iloc[-2]["value"]) if len(df) > 1 else None,

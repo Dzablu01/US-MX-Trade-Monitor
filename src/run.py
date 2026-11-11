@@ -59,7 +59,7 @@ def build_banxico(sample):
     import banxico
     series, missing = banxico.fetch()
     write("banxico.json", {"series": series, "summary": banxico.latest_summary(series)})
-    msg = ", ".join(f"{k}={v['value']} ({v['date']})" for k, v in banxico.latest_summary(series).items())
+    msg = ", ".join(f"{k}={v['value']} ({v['date']}) [{v['title_banxico']}]" for k, v in banxico.latest_summary(series).items())
     return msg + (f"; series IDs with no data: {missing}" if missing else "")
 
 
