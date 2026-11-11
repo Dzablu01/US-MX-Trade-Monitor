@@ -1,13 +1,14 @@
 {
- "run_at": "2026-11-11T15:36:25+00:00",
+ "run_at": "2026-11-11T15:47:41+00:00",
  "sources": {
   "census": {
-   "ok": true,
-   "note": "latest 2026-09; The U.S. deficit with Mexico widened by $10.8 bn from September 2025. Imports from Mexico changed +17.7 bn (+39.6%) and U.S. exports +6.9 bn (+25.2%). Main drivers: vehicles and parts (-3.4 bn); computers and machinery (-3.0 bn). Partly offset by mineral fuels (oil, gas, refined) (+0.9 bn)."
+   "ok": false,
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "trace": "Traceback (most recent call last):\n  File \"/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py\", line 1116, in json\n    return complexjson.loads(self.text, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/json/__init__.py\", line 346, in loads\n    return _default_decoder.decode(s)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/json/decoder.py\", line 338, in decode\n    obj, end = self.raw_decode(s, idx=_w(s, 0).end())\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\njson.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/US-MX-Trade-Monitor/US-MX-Trade-Monitor/src/run.py\", line 73, in main\n    status[\"sources\"][name] = {\"ok\": True, \"note\": fn(args.sample)}\n                                                   ^^^^^^^^^^^^^^^\n  File \"/home/runner/work/US-MX-Trade-Monitor/US-MX-Trade-Monitor/src/run.py\", line 37, in build_census\n    hs2 = census.fetch(\"HS2\", start=\"2019-01\")\n          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/US-MX-Trade-Monitor/US-MX-Trade-Monitor/src/census.py\", line 34, in fetch\n    imp = _get(f\"{BASE}/imports/hs\", {\n          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nrequests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)\n"
   },
   "banxico": {
    "ok": true,
-   "note": "skipped in sample mode"
+   "note": "usdmxn_fix=18.6678 (2026-11-10), policy_rate=6.25 (2026-11-11), remittances=5362.191882 (2026-09-01)"
   }
  }
 }
