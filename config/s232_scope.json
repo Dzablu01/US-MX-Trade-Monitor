@@ -1,0 +1,10 @@
+{
+  "_note": "STARTER scope using HTS prefixes. Section 232 coverage is legally defined by HTS-10 lists in the proclamation annexes and CBP CSMS guidance (including steel/aluminum derivative lists). Replace each 'prefixes' list with the official HTS-10 codes before relying on the numbers. A code matches if it starts with any prefix; 'exclude' prefixes win.",
+  "as_of": "2026-07 (rates per public reporting; verify against the latest Federal Register notices)",
+  "categories": [
+    {"id": "steel",    "en": "Steel",                   "es": "Acero",                      "rate": "50%", "prefixes": ["72", "73"], "exclude": []},
+    {"id": "aluminum", "en": "Aluminum",                "es": "Aluminio",                   "rate": "50%", "prefixes": ["76"], "exclude": []},
+    {"id": "autos",    "en": "Autos and parts",         "es": "Autos y autopartes",         "rate": "25% (non-U.S. content for USMCA-qualifying)", "prefixes": ["8703", "870421", "870431", "870441", "870451", "8708"], "exclude": []},
+    {"id": "trucks",   "en": "Medium and heavy trucks", "es": "Camiones medianos y pesados", "rate": "25% (buses 10%)", "prefixes": ["8701", "8702", "870422", "870423", "870432", "870442", "870443", "870452", "870460", "870490"], "exclude": []}
+  ]
+}

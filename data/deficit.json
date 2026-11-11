@@ -1,0 +1,713 @@
+{
+ "latest": "2026-09",
+ "series": [
+  {
+   "period": "2023-01",
+   "imports": 42000000000.0,
+   "exports": 27000000000.0,
+   "duties": 1511999999.9999998,
+   "balance": -15000000000.0,
+   "deficit": 15000000000.0,
+   "deficit_12m_avg": null
+  },
+  {
+   "period": "2023-02",
+   "imports": 42504000000.0,
+   "exports": 27188999999.999992,
+   "duties": 1530144000.0,
+   "balance": -15315000000.000008,
+   "deficit": 15315000000.000008,
+   "deficit_12m_avg": null
+  },
+  {
+   "period": "2023-03",
+   "imports": 43014048000.0,
+   "exports": 27379322999.999992,
+   "duties": 1548505728.0,
+   "balance": -15634725000.000008,
+   "deficit": 15634725000.000008,
+   "deficit_12m_avg": null
+  },
+  {
+   "period": "2023-04",
+   "imports": 43530216576.00001,
+   "exports": 27570978260.99999,
+   "duties": 1567087796.736,
+   "balance": -15959238315.00002,
+   "deficit": 15959238315.00002,
+   "deficit_12m_avg": null
+  },
+  {
+   "period": "2023-05",
+   "imports": 44052579174.911995,
+   "exports": 27763975108.82699,
+   "duties": 1585892850.2968318,
+   "balance": -16288604066.085007,
+   "deficit": 16288604066.085007,
+   "deficit_12m_avg": null
+  },
+  {
+   "period": "2023-06",
+   "imports": 44581210125.01095,
+   "exports": 27958322934.588776,
+   "duties": 1604923564.500394,
+   "balance": -16622887190.422173,
+   "deficit": 16622887190.422173,
+   "deficit_12m_avg": null
+  },
+  {
+   "period": "2023-07",
+   "imports": 45116184646.511086,
+   "exports": 28154031195.13089,
+   "duties": 1624182647.2743988,
+   "balance": -16962153451.380196,
+   "deficit": 16962153451.380196,
+   "deficit_12m_avg": null
+  },
+  {
+   "period": "2023-08",
+   "imports": 45657578862.26921,
+   "exports": 28351109413.496807,
+   "duties": 1643672839.0416915,
+   "balance": -17306469448.772404,
+   "deficit": 17306469448.772404,
+   "deficit_12m_avg": null
+  },
+  {
+   "period": "2023-09",
+   "imports": 46205469808.61645,
+   "exports": 28549567179.39128,
+   "duties": 1663396913.1101918,
+   "balance": -17655902629.225166,
+   "deficit": 17655902629.225166,
+   "deficit_12m_avg": null
+  },
+  {
+   "period": "2023-10",
+   "imports": 46759935446.31984,
+   "exports": 28749414149.647015,
+   "duties": 1683357676.0675142,
+   "balance": -18010521296.672825,
+   "deficit": 18010521296.672825,
+   "deficit_12m_avg": null
+  },
+  {
+   "period": "2023-11",
+   "imports": 47321054671.67568,
+   "exports": 28950660048.694546,
+   "duties": 1703557968.1803246,
+   "balance": -18370394622.981136,
+   "deficit": 18370394622.981136,
+   "deficit_12m_avg": null
+  },
+  {
+   "period": "2023-12",
+   "imports": 47888907327.735794,
+   "exports": 29153314669.035404,
+   "duties": 1724000663.7984881,
+   "balance": -18735592658.70039,
+   "deficit": 18735592658.70039,
+   "deficit_12m_avg": 16821790723.269943
+  },
+  {
+   "period": "2024-01",
+   "imports": 48463574215.66861,
+   "exports": 29357387871.718647,
+   "duties": 1744688671.76407,
+   "balance": -19106186343.949963,
+   "deficit": 19106186343.949963,
+   "deficit_12m_avg": 17163972918.599108
+  },
+  {
+   "period": "2024-02",
+   "imports": 49045137106.25664,
+   "exports": 29562889586.820675,
+   "duties": 1765624935.825239,
+   "balance": -19482247519.435963,
+   "deficit": 19482247519.435963,
+   "deficit_12m_avg": 17511243545.21877
+  },
+  {
+   "period": "2024-03",
+   "imports": 49633678751.53172,
+   "exports": 29769829813.928413,
+   "duties": 1786812435.055142,
+   "balance": -19863848937.60331,
+   "deficit": 19863848937.60331,
+   "deficit_12m_avg": 17863670540.019047
+  },
+  {
+   "period": "2024-04",
+   "imports": 50229282896.55011,
+   "exports": 29978218622.625916,
+   "duties": 1808254184.275804,
+   "balance": -20251064273.924194,
+   "deficit": 20251064273.924194,
+   "deficit_12m_avg": 18221322703.26273
+  },
+  {
+   "period": "2024-05",
+   "imports": 50832034291.30871,
+   "exports": 30188066152.98429,
+   "duties": 1829953234.4871135,
+   "balance": -20643968138.324417,
+   "deficit": 20643968138.324417,
+   "deficit_12m_avg": 18584269709.282677
+  },
+  {
+   "period": "2024-06",
+   "imports": 51442018702.80441,
+   "exports": 30399382616.055183,
+   "duties": 1851912673.3009586,
+   "balance": -21042636086.74923,
+   "deficit": 21042636086.74923,
+   "deficit_12m_avg": 18952582117.309933
+  },
+  {
+   "period": "2024-07",
+   "imports": 52059322927.23807,
+   "exports": 30612178294.367558,
+   "duties": 1874135625.3805704,
+   "balance": -21447144632.87051,
+   "deficit": 21447144632.87051,
+   "deficit_12m_avg": 19326331382.434124
+  },
+  {
+   "period": "2024-08",
+   "imports": 52684034802.36493,
+   "exports": 30826463542.42813,
+   "duties": 1896625252.885137,
+   "balance": -21857571259.9368,
+   "deficit": 21857571259.9368,
+   "deficit_12m_avg": 19705589866.697826
+  },
+  {
+   "period": "2024-09",
+   "imports": 53316243219.9933,
+   "exports": 31042248787.22512,
+   "duties": 1919384755.9197588,
+   "balance": -22273994432.76818,
+   "deficit": 22273994432.76818,
+   "deficit_12m_avg": 20090430850.326412
+  },
+  {
+   "period": "2024-10",
+   "imports": 53956038138.63321,
+   "exports": 31259544528.735695,
+   "duties": 1942417372.9907956,
+   "balance": -22696493609.897514,
+   "deficit": 22696493609.897514,
+   "deficit_12m_avg": 20480928543.095135
+  },
+  {
+   "period": "2024-11",
+   "imports": 54603510596.29683,
+   "exports": 31478361340.436844,
+   "duties": 1965726381.4666858,
+   "balance": -23125149255.859985,
+   "deficit": 23125149255.859985,
+   "deficit_12m_avg": 20877158095.835037
+  },
+  {
+   "period": "2024-12",
+   "imports": 55258752723.45239,
+   "exports": 31698709869.8199,
+   "duties": 1989315098.0442858,
+   "balance": -23560042853.632492,
+   "deficit": 23560042853.632492,
+   "deficit_12m_avg": 21279195612.07938
+  },
+  {
+   "period": "2025-01",
+   "imports": 55921857756.13381,
+   "exports": 31920600838.90863,
+   "duties": 2013186879.220817,
+   "balance": -24001256917.22518,
+   "deficit": 24001256917.22518,
+   "deficit_12m_avg": 21687118159.852314
+  },
+  {
+   "period": "2025-02",
+   "imports": 56592920049.20742,
+   "exports": 32144045044.78099,
+   "duties": 2037345121.771467,
+   "balance": -24448875004.42643,
+   "deficit": 24448875004.42643,
+   "deficit_12m_avg": 22101003783.60152
+  },
+  {
+   "period": "2025-03",
+   "imports": 57272035089.79791,
+   "exports": 32369053360.09445,
+   "duties": 2061793263.2327247,
+   "balance": -24902981729.70346,
+   "deficit": 24902981729.70346,
+   "deficit_12m_avg": 22520931516.27653
+  },
+  {
+   "period": "2025-04",
+   "imports": 57959299510.87548,
+   "exports": 32595636733.615112,
+   "duties": 2086534782.3915172,
+   "balance": -25363662777.26037,
+   "deficit": 25363662777.26037,
+   "deficit_12m_avg": 22946981391.554546
+  },
+  {
+   "period": "2025-05",
+   "imports": 58654811105.006,
+   "exports": 32823806190.75042,
+   "duties": 2111573199.7802155,
+   "balance": -25831004914.255577,
+   "deficit": 25831004914.255577,
+   "deficit_12m_avg": 23379234456.21548
+  },
+  {
+   "period": "2025-06",
+   "imports": 59358668838.26607,
+   "exports": 33053572834.085663,
+   "duties": 2136912078.177578,
+   "balance": -26305096004.180405,
+   "deficit": 26305096004.180405,
+   "deficit_12m_avg": 23817772782.668076
+  },
+  {
+   "period": "2025-07",
+   "imports": 60070972864.32526,
+   "exports": 33284947843.92425,
+   "duties": 2162555023.1157093,
+   "balance": -26786025020.401005,
+   "deficit": 26786025020.401005,
+   "deficit_12m_avg": 24262679481.62895
+  },
+  {
+   "period": "2025-08",
+   "imports": 60791824538.69716,
+   "exports": 33517942478.831734,
+   "duties": 2188505683.393098,
+   "balance": -27273882059.865425,
+   "deficit": 27273882059.865425,
+   "deficit_12m_avg": 24714038714.956333
+  },
+  {
+   "period": "2025-09",
+   "imports": 44580000000.0,
+   "exports": 27220000000.0,
+   "duties": 1604879999.9999998,
+   "balance": -17360000000.0,
+   "deficit": 17360000000.0,
+   "deficit_12m_avg": 24304539178.89232
+  },
+  {
+   "period": "2025-10",
+   "imports": 62259582350.35945,
+   "exports": 33988836052.716827,
+   "duties": 2241344964.6129403,
+   "balance": -28270746297.642624,
+   "deficit": 28270746297.642624,
+   "deficit_12m_avg": 24769060236.20441
+  },
+  {
+   "period": "2025-11",
+   "imports": 63006697338.563774,
+   "exports": 34226757905.08584,
+   "duties": 2268241104.188296,
+   "balance": -28779939433.477936,
+   "deficit": 28779939433.477936,
+   "deficit_12m_avg": 25240292751.00591
+  },
+  {
+   "period": "2025-12",
+   "imports": 63762777706.62655,
+   "exports": 34466345210.42144,
+   "duties": 2295459997.4385557,
+   "balance": -29296432496.20511,
+   "deficit": 29296432496.20511,
+   "deficit_12m_avg": 25718325221.22029
+  },
+  {
+   "period": "2026-01",
+   "imports": 64527931039.106064,
+   "exports": 34707609626.89439,
+   "duties": 2323005517.407818,
+   "balance": -29820321412.211678,
+   "deficit": 29820321412.211678,
+   "deficit_12m_avg": 26203247262.469166
+  },
+  {
+   "period": "2026-02",
+   "imports": 65302266211.57533,
+   "exports": 34950562894.282646,
+   "duties": 2350881583.6167116,
+   "balance": -30351703317.292686,
+   "deficit": 30351703317.292686,
+   "deficit_12m_avg": 26695149621.87469
+  },
+  {
+   "period": "2026-03",
+   "imports": 66085893406.11425,
+   "exports": 35195216834.54262,
+   "duties": 2379092162.620113,
+   "balance": -30890676571.571632,
+   "deficit": 30890676571.571632,
+   "deficit_12m_avg": 27194124192.03037
+  },
+  {
+   "period": "2026-04",
+   "imports": 66878924126.98761,
+   "exports": 35441583352.38441,
+   "duties": 2407641268.571554,
+   "balance": -31437340774.603203,
+   "deficit": 31437340774.603203,
+   "deficit_12m_avg": 27700264025.142273
+  },
+  {
+   "period": "2026-05",
+   "imports": 67681471216.51147,
+   "exports": 35689674435.85109,
+   "duties": 2436532963.7944126,
+   "balance": -31991796780.660378,
+   "deficit": 31991796780.660378,
+   "deficit_12m_avg": 28213663347.34267
+  },
+  {
+   "period": "2026-06",
+   "imports": 68493648871.109604,
+   "exports": 35939502156.902054,
+   "duties": 2465771359.3599453,
+   "balance": -32554146714.20755,
+   "deficit": 32554146714.20755,
+   "deficit_12m_avg": 28734417573.17827
+  },
+  {
+   "period": "2026-07",
+   "imports": 69315572657.56293,
+   "exports": 36191078672.00036,
+   "duties": 2495360615.672265,
+   "balance": -33124493985.56257,
+   "deficit": 33124493985.56257,
+   "deficit_12m_avg": 29262623320.27507
+  },
+  {
+   "period": "2026-08",
+   "imports": 70147359529.45367,
+   "exports": 36444416222.70436,
+   "duties": 2525304943.0603323,
+   "balance": -33702943306.749313,
+   "deficit": 33702943306.749313,
+   "deficit_12m_avg": 29798378424.182053
+  },
+  {
+   "period": "2026-09",
+   "imports": 62240000000.0,
+   "exports": 34090000000.0,
+   "duties": 2240640000.0,
+   "balance": -28150000000.0,
+   "deficit": 28150000000.0,
+   "deficit_12m_avg": 30697545090.84872
+  }
+ ],
+ "breakdown": {
+  "yoy": {
+   "mode": "yoy",
+   "end": "2026-09",
+   "current": [
+    "2026-09"
+   ],
+   "base": [
+    "2025-09"
+   ],
+   "totals": {
+    "d_imports_bn": 17.66,
+    "d_exports_bn": 6.87,
+    "d_balance_bn": -10.79,
+    "imports_pct": 39.6,
+    "exports_pct": 25.2,
+    "deficit_cur_bn": 28.15,
+    "deficit_base_bn": 17.36
+   },
+   "groups": [
+    {
+     "id": "vehicles",
+     "en": "Vehicles and parts",
+     "es": "Vehículos y autopartes",
+     "d_imports_bn": 4.05,
+     "d_exports_bn": 0.69,
+     "contribution_bn": -3.36
+    },
+    {
+     "id": "machinery",
+     "en": "Computers and machinery",
+     "es": "Computadoras y maquinaria",
+     "d_imports_bn": 4.45,
+     "d_exports_bn": 1.44,
+     "contribution_bn": -3.01
+    },
+    {
+     "id": "electrical",
+     "en": "Electrical equipment",
+     "es": "Equipo eléctrico y electrónico",
+     "d_imports_bn": 3.79,
+     "d_exports_bn": 0.96,
+     "contribution_bn": -2.84
+    },
+    {
+     "id": "other",
+     "en": "All other",
+     "es": "Todo lo demás",
+     "d_imports_bn": 2.73,
+     "d_exports_bn": 0.93,
+     "contribution_bn": -1.8
+    },
+    {
+     "id": "agrifood",
+     "en": "Agriculture and food",
+     "es": "Agricultura y alimentos",
+     "d_imports_bn": 0.85,
+     "d_exports_bn": 0.35,
+     "contribution_bn": -0.5
+    },
+    {
+     "id": "steel",
+     "en": "Iron and steel, and steel articles",
+     "es": "Hierro, acero y sus manufacturas",
+     "d_imports_bn": 0.61,
+     "d_exports_bn": 0.45,
+     "contribution_bn": -0.16
+    },
+    {
+     "id": "instruments",
+     "en": "Medical and precision instruments",
+     "es": "Instrumentos médicos y de precisión",
+     "d_imports_bn": 0.5,
+     "d_exports_bn": 0.37,
+     "contribution_bn": -0.13
+    },
+    {
+     "id": "aluminum",
+     "en": "Aluminum",
+     "es": "Aluminio",
+     "d_imports_bn": 0.16,
+     "d_exports_bn": 0.24,
+     "contribution_bn": 0.08
+    },
+    {
+     "id": "fuels",
+     "en": "Mineral fuels (oil, gas, refined)",
+     "es": "Combustibles (petróleo, gas, refinados)",
+     "d_imports_bn": 0.52,
+     "d_exports_bn": 1.44,
+     "contribution_bn": 0.92
+    }
+   ],
+   "read_en": "The U.S. deficit with Mexico widened by $10.8 bn from September 2025. Imports from Mexico changed +17.7 bn (+39.6%) and U.S. exports +6.9 bn (+25.2%). Main drivers: vehicles and parts (-3.4 bn); computers and machinery (-3.0 bn). Partly offset by mineral fuels (oil, gas, refined) (+0.9 bn).",
+   "read_es": "El déficit de EE.UU. con México se amplió $10.8 mmd respecto a septiembre de 2025. Las importaciones desde México variaron +17.7 mmd (+39.6%) y las exportaciones de EE.UU. +6.9 mmd (+25.2%). Principales factores: vehículos y autopartes (-3.4 mmd); computadoras y maquinaria (-3.0 mmd). Compensado en parte por combustibles (petróleo, gas, refinados) (+0.9 mmd)."
+  },
+  "mom": {
+   "mode": "mom",
+   "end": "2026-09",
+   "current": [
+    "2026-09"
+   ],
+   "base": [
+    "2026-08"
+   ],
+   "totals": {
+    "d_imports_bn": -7.91,
+    "d_exports_bn": -2.35,
+    "d_balance_bn": 5.55,
+    "imports_pct": -11.3,
+    "exports_pct": -6.5,
+    "deficit_cur_bn": 28.15,
+    "deficit_base_bn": 33.7
+   },
+   "groups": [
+    {
+     "id": "machinery",
+     "en": "Computers and machinery",
+     "es": "Computadoras y maquinaria",
+     "d_imports_bn": 0.32,
+     "d_exports_bn": 0.1,
+     "contribution_bn": -0.22
+    },
+    {
+     "id": "aluminum",
+     "en": "Aluminum",
+     "es": "Aluminio",
+     "d_imports_bn": -0.05,
+     "d_exports_bn": -0.14,
+     "contribution_bn": -0.09
+    },
+    {
+     "id": "steel",
+     "en": "Iron and steel, and steel articles",
+     "es": "Hierro, acero y sus manufacturas",
+     "d_imports_bn": -0.04,
+     "d_exports_bn": -0.03,
+     "contribution_bn": 0.01
+    },
+    {
+     "id": "agrifood",
+     "en": "Agriculture and food",
+     "es": "Agricultura y alimentos",
+     "d_imports_bn": -0.19,
+     "d_exports_bn": -0.13,
+     "contribution_bn": 0.06
+    },
+    {
+     "id": "fuels",
+     "en": "Mineral fuels (oil, gas, refined)",
+     "es": "Combustibles (petróleo, gas, refinados)",
+     "d_imports_bn": -0.16,
+     "d_exports_bn": 0.08,
+     "contribution_bn": 0.24
+    },
+    {
+     "id": "vehicles",
+     "en": "Vehicles and parts",
+     "es": "Vehículos y autopartes",
+     "d_imports_bn": -0.55,
+     "d_exports_bn": -0.24,
+     "contribution_bn": 0.3
+    },
+    {
+     "id": "instruments",
+     "en": "Medical and precision instruments",
+     "es": "Instrumentos médicos y de precisión",
+     "d_imports_bn": -0.33,
+     "d_exports_bn": 0.04,
+     "contribution_bn": 0.37
+    },
+    {
+     "id": "electrical",
+     "en": "Electrical equipment",
+     "es": "Equipo eléctrico y electrónico",
+     "d_imports_bn": -2.52,
+     "d_exports_bn": -0.29,
+     "contribution_bn": 2.23
+    },
+    {
+     "id": "other",
+     "en": "All other",
+     "es": "Todo lo demás",
+     "d_imports_bn": -4.39,
+     "d_exports_bn": -1.74,
+     "contribution_bn": 2.64
+    }
+   ],
+   "read_en": "The U.S. deficit with Mexico narrowed by $5.5 bn from August 2026. Imports from Mexico changed -7.9 bn (-11.3%) and U.S. exports -2.4 bn (-6.5%). Main drivers: all other (+2.6 bn); electrical equipment (+2.2 bn). Partly offset by computers and machinery (-0.2 bn).",
+   "read_es": "El déficit de EE.UU. con México se redujo $5.5 mmd respecto a agosto de 2026. Las importaciones desde México variaron -7.9 mmd (-11.3%) y las exportaciones de EE.UU. -2.4 mmd (-6.5%). Principales factores: todo lo demás (+2.6 mmd); equipo eléctrico y electrónico (+2.2 mmd). Compensado en parte por computadoras y maquinaria (-0.2 mmd)."
+  },
+  "ytd": {
+   "mode": "ytd",
+   "end": "2026-09",
+   "current": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07",
+    "2026-08",
+    "2026-09"
+   ],
+   "base": [
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09"
+   ],
+   "totals": {
+    "d_imports_bn": 89.47,
+    "d_exports_bn": 29.72,
+    "d_balance_bn": -59.75,
+    "imports_pct": 17.5,
+    "exports_pct": 10.3,
+    "deficit_cur_bn": 282.02,
+    "deficit_base_bn": 222.27
+   },
+   "groups": [
+    {
+     "id": "other",
+     "en": "All other",
+     "es": "Todo lo demás",
+     "d_imports_bn": 28.2,
+     "d_exports_bn": 5.9,
+     "contribution_bn": -22.3
+    },
+    {
+     "id": "electrical",
+     "en": "Electrical equipment",
+     "es": "Equipo eléctrico y electrónico",
+     "d_imports_bn": 24.31,
+     "d_exports_bn": 5.13,
+     "contribution_bn": -19.18
+    },
+    {
+     "id": "vehicles",
+     "en": "Vehicles and parts",
+     "es": "Vehículos y autopartes",
+     "d_imports_bn": 11.33,
+     "d_exports_bn": 2.43,
+     "contribution_bn": -8.9
+    },
+    {
+     "id": "machinery",
+     "en": "Computers and machinery",
+     "es": "Computadoras y maquinaria",
+     "d_imports_bn": 12.86,
+     "d_exports_bn": 6.37,
+     "contribution_bn": -6.49
+    },
+    {
+     "id": "agrifood",
+     "en": "Agriculture and food",
+     "es": "Agricultura y alimentos",
+     "d_imports_bn": 4.08,
+     "d_exports_bn": 1.22,
+     "contribution_bn": -2.86
+    },
+    {
+     "id": "instruments",
+     "en": "Medical and precision instruments",
+     "es": "Instrumentos médicos y de precisión",
+     "d_imports_bn": 3.44,
+     "d_exports_bn": 0.97,
+     "contribution_bn": -2.47
+    },
+    {
+     "id": "steel",
+     "en": "Iron and steel, and steel articles",
+     "es": "Hierro, acero y sus manufacturas",
+     "d_imports_bn": 2.39,
+     "d_exports_bn": 1.69,
+     "contribution_bn": -0.7
+    },
+    {
+     "id": "aluminum",
+     "en": "Aluminum",
+     "es": "Aluminio",
+     "d_imports_bn": 1.03,
+     "d_exports_bn": 1.16,
+     "contribution_bn": 0.13
+    },
+    {
+     "id": "fuels",
+     "en": "Mineral fuels (oil, gas, refined)",
+     "es": "Combustibles (petróleo, gas, refinados)",
+     "d_imports_bn": 1.83,
+     "d_exports_bn": 4.86,
+     "contribution_bn": 3.02
+    }
+   ],
+   "read_en": "The U.S. deficit with Mexico widened by $59.8 bn year to date versus the same months last year. Imports from Mexico changed +89.5 bn (+17.5%) and U.S. exports +29.7 bn (+10.3%). Main drivers: all other (-22.3 bn); electrical equipment (-19.2 bn). Partly offset by mineral fuels (oil, gas, refined) (+3.0 bn).",
+   "read_es": "El déficit de EE.UU. con México se amplió $59.8 mmd en lo que va del año frente al mismo periodo del año anterior. Las importaciones desde México variaron +89.5 mmd (+17.5%) y las exportaciones de EE.UU. +29.7 mmd (+10.3%). Principales factores: todo lo demás (-22.3 mmd); equipo eléctrico y electrónico (-19.2 mmd). Compensado en parte por combustibles (petróleo, gas, refinados) (+3.0 mmd)."
+  }
+ }
+}

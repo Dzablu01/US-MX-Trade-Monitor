@@ -1,0 +1,14 @@
+{
+  "_note": "Maps HS 2-digit chapters to the product groups shown in 'What moved the deficit'. Any chapter not listed falls into 'other'.",
+  "groups": [
+    {"id": "vehicles",    "en": "Vehicles and parts",                 "es": "Vehículos y autopartes",              "hs2": ["87"]},
+    {"id": "machinery",   "en": "Computers and machinery",            "es": "Computadoras y maquinaria",           "hs2": ["84"]},
+    {"id": "electrical",  "en": "Electrical equipment",               "es": "Equipo eléctrico y electrónico",      "hs2": ["85"]},
+    {"id": "instruments", "en": "Medical and precision instruments",  "es": "Instrumentos médicos y de precisión", "hs2": ["90"]},
+    {"id": "fuels",       "en": "Mineral fuels (oil, gas, refined)",  "es": "Combustibles (petróleo, gas, refinados)", "hs2": ["27"]},
+    {"id": "steel",       "en": "Iron and steel, and steel articles", "es": "Hierro, acero y sus manufacturas",    "hs2": ["72", "73"]},
+    {"id": "aluminum",    "en": "Aluminum",                           "es": "Aluminio",                            "hs2": ["76"]},
+    {"id": "agrifood",    "en": "Agriculture and food",               "es": "Agricultura y alimentos",             "hs2": ["01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24"]},
+    {"id": "other",       "en": "All other",                          "es": "Todo lo demás",                       "hs2": []}
+  ]
+}

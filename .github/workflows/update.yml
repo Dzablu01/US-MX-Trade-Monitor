@@ -1,0 +1,32 @@
+name: Update data
+
+on:
+  schedule:
+    - cron: "17 13,17,21 * * 1-5"   # 3x per weekday (UTC); Census releases at 8:30 ET
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Build data
+        env:
+          CENSUS_API_KEY: ${{ secrets.CENSUS_API_KEY }}
+          BANXICO_TOKEN: ${{ secrets.BANXICO_TOKEN }}
+          INEGI_TOKEN: ${{ secrets.INEGI_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python src/run.py
+      - name: Commit if changed
+        run: |
+          git config user.name "vitals-bot"
+          git config user.email "vitals-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || { git commit -m "Data update $(date -u +%F)"; git push; }

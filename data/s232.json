@@ -1,0 +1,1297 @@
+{
+ "as_of": "2026-07 (rates per public reporting; verify against the latest Federal Register notices)",
+ "categories": [
+  {
+   "id": "steel",
+   "en": "Steel",
+   "es": "Acero",
+   "rate": "50%",
+   "series": [
+    {
+     "period": "2023-01",
+     "imports_bn": 0.265,
+     "duties_mn": 132.5,
+     "share_pct": 0.8,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-02",
+     "imports_bn": 0.183,
+     "duties_mn": 91.4,
+     "share_pct": 0.5,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-03",
+     "imports_bn": 0.18,
+     "duties_mn": 90.2,
+     "share_pct": 0.5,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-04",
+     "imports_bn": 0.267,
+     "duties_mn": 133.4,
+     "share_pct": 0.7,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-05",
+     "imports_bn": 0.255,
+     "duties_mn": 127.4,
+     "share_pct": 0.7,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-06",
+     "imports_bn": 0.24,
+     "duties_mn": 120.0,
+     "share_pct": 0.6,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-07",
+     "imports_bn": 0.272,
+     "duties_mn": 136.1,
+     "share_pct": 0.7,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-08",
+     "imports_bn": 0.218,
+     "duties_mn": 108.8,
+     "share_pct": 0.5,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-09",
+     "imports_bn": 0.224,
+     "duties_mn": 111.9,
+     "share_pct": 0.6,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-10",
+     "imports_bn": 0.365,
+     "duties_mn": 182.4,
+     "share_pct": 0.9,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-11",
+     "imports_bn": 0.342,
+     "duties_mn": 170.9,
+     "share_pct": 0.9,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-12",
+     "imports_bn": 0.292,
+     "duties_mn": 146.2,
+     "share_pct": 0.7,
+     "yoy_pct": null
+    },
+    {
+     "period": "2024-01",
+     "imports_bn": 0.32,
+     "duties_mn": 159.8,
+     "share_pct": 0.8,
+     "yoy_pct": 20.6
+    },
+    {
+     "period": "2024-02",
+     "imports_bn": 0.429,
+     "duties_mn": 214.7,
+     "share_pct": 1.0,
+     "yoy_pct": 134.8
+    },
+    {
+     "period": "2024-03",
+     "imports_bn": 0.331,
+     "duties_mn": 165.3,
+     "share_pct": 0.8,
+     "yoy_pct": 83.3
+    },
+    {
+     "period": "2024-04",
+     "imports_bn": 0.289,
+     "duties_mn": 144.7,
+     "share_pct": 0.7,
+     "yoy_pct": 8.5
+    },
+    {
+     "period": "2024-05",
+     "imports_bn": 0.376,
+     "duties_mn": 188.0,
+     "share_pct": 0.8,
+     "yoy_pct": 47.5
+    },
+    {
+     "period": "2024-06",
+     "imports_bn": 0.439,
+     "duties_mn": 219.7,
+     "share_pct": 1.0,
+     "yoy_pct": 83.1
+    },
+    {
+     "period": "2024-07",
+     "imports_bn": 0.314,
+     "duties_mn": 157.0,
+     "share_pct": 0.7,
+     "yoy_pct": 15.3
+    },
+    {
+     "period": "2024-08",
+     "imports_bn": 0.334,
+     "duties_mn": 167.1,
+     "share_pct": 0.7,
+     "yoy_pct": 53.6
+    },
+    {
+     "period": "2024-09",
+     "imports_bn": 0.191,
+     "duties_mn": 95.7,
+     "share_pct": 0.4,
+     "yoy_pct": -14.5
+    },
+    {
+     "period": "2024-10",
+     "imports_bn": 0.202,
+     "duties_mn": 101.0,
+     "share_pct": 0.5,
+     "yoy_pct": -44.7
+    },
+    {
+     "period": "2024-11",
+     "imports_bn": 0.299,
+     "duties_mn": 149.5,
+     "share_pct": 0.6,
+     "yoy_pct": -12.5
+    },
+    {
+     "period": "2024-12",
+     "imports_bn": 0.313,
+     "duties_mn": 156.5,
+     "share_pct": 0.7,
+     "yoy_pct": 7.0
+    },
+    {
+     "period": "2025-01",
+     "imports_bn": 0.328,
+     "duties_mn": 163.8,
+     "share_pct": 0.7,
+     "yoy_pct": 2.5
+    },
+    {
+     "period": "2025-02",
+     "imports_bn": 0.244,
+     "duties_mn": 122.1,
+     "share_pct": 0.5,
+     "yoy_pct": -43.1
+    },
+    {
+     "period": "2025-03",
+     "imports_bn": 0.393,
+     "duties_mn": 196.5,
+     "share_pct": 0.8,
+     "yoy_pct": 18.8
+    },
+    {
+     "period": "2025-04",
+     "imports_bn": 0.44,
+     "duties_mn": 220.1,
+     "share_pct": 0.9,
+     "yoy_pct": 52.2
+    },
+    {
+     "period": "2025-05",
+     "imports_bn": 0.334,
+     "duties_mn": 167.2,
+     "share_pct": 0.6,
+     "yoy_pct": -11.1
+    },
+    {
+     "period": "2025-06",
+     "imports_bn": 0.319,
+     "duties_mn": 159.7,
+     "share_pct": 0.6,
+     "yoy_pct": -27.3
+    },
+    {
+     "period": "2025-07",
+     "imports_bn": 0.384,
+     "duties_mn": 192.2,
+     "share_pct": 0.7,
+     "yoy_pct": 22.4
+    },
+    {
+     "period": "2025-08",
+     "imports_bn": 0.379,
+     "duties_mn": 189.3,
+     "share_pct": 0.7,
+     "yoy_pct": 13.3
+    },
+    {
+     "period": "2025-09",
+     "imports_bn": 0.297,
+     "duties_mn": 148.4,
+     "share_pct": 0.8,
+     "yoy_pct": 55.1
+    },
+    {
+     "period": "2025-10",
+     "imports_bn": 0.305,
+     "duties_mn": 152.6,
+     "share_pct": 0.6,
+     "yoy_pct": 51.2
+    },
+    {
+     "period": "2025-11",
+     "imports_bn": 0.335,
+     "duties_mn": 167.4,
+     "share_pct": 0.6,
+     "yoy_pct": 12.0
+    },
+    {
+     "period": "2025-12",
+     "imports_bn": 0.3,
+     "duties_mn": 150.1,
+     "share_pct": 0.5,
+     "yoy_pct": -4.1
+    },
+    {
+     "period": "2026-01",
+     "imports_bn": 0.303,
+     "duties_mn": 151.7,
+     "share_pct": 0.5,
+     "yoy_pct": -7.4
+    },
+    {
+     "period": "2026-02",
+     "imports_bn": 0.509,
+     "duties_mn": 254.4,
+     "share_pct": 0.9,
+     "yoy_pct": 108.4
+    },
+    {
+     "period": "2026-03",
+     "imports_bn": 0.459,
+     "duties_mn": 229.7,
+     "share_pct": 0.8,
+     "yoy_pct": 16.9
+    },
+    {
+     "period": "2026-04",
+     "imports_bn": 0.471,
+     "duties_mn": 235.6,
+     "share_pct": 0.9,
+     "yoy_pct": 7.0
+    },
+    {
+     "period": "2026-05",
+     "imports_bn": 0.339,
+     "duties_mn": 169.3,
+     "share_pct": 0.6,
+     "yoy_pct": 1.3
+    },
+    {
+     "period": "2026-06",
+     "imports_bn": 0.511,
+     "duties_mn": 255.4,
+     "share_pct": 0.8,
+     "yoy_pct": 60.0
+    },
+    {
+     "period": "2026-07",
+     "imports_bn": 0.338,
+     "duties_mn": 169.1,
+     "share_pct": 0.5,
+     "yoy_pct": -12.0
+    },
+    {
+     "period": "2026-08",
+     "imports_bn": 0.515,
+     "duties_mn": 257.7,
+     "share_pct": 0.9,
+     "yoy_pct": 36.2
+    },
+    {
+     "period": "2026-09",
+     "imports_bn": 0.496,
+     "duties_mn": 248.1,
+     "share_pct": 0.9,
+     "yoy_pct": 67.2
+    }
+   ]
+  },
+  {
+   "id": "aluminum",
+   "en": "Aluminum",
+   "es": "Aluminio",
+   "rate": "50%",
+   "series": [
+    {
+     "period": "2023-01",
+     "imports_bn": 0.125,
+     "duties_mn": 62.4,
+     "share_pct": 0.4,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-02",
+     "imports_bn": 0.064,
+     "duties_mn": 32.1,
+     "share_pct": 0.2,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-03",
+     "imports_bn": 0.123,
+     "duties_mn": 61.3,
+     "share_pct": 0.3,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-04",
+     "imports_bn": 0.055,
+     "duties_mn": 27.5,
+     "share_pct": 0.2,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-05",
+     "imports_bn": 0.106,
+     "duties_mn": 53.1,
+     "share_pct": 0.3,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-06",
+     "imports_bn": 0.119,
+     "duties_mn": 59.3,
+     "share_pct": 0.3,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-07",
+     "imports_bn": 0.072,
+     "duties_mn": 36.1,
+     "share_pct": 0.2,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-08",
+     "imports_bn": 0.128,
+     "duties_mn": 64.0,
+     "share_pct": 0.3,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-09",
+     "imports_bn": 0.132,
+     "duties_mn": 65.8,
+     "share_pct": 0.3,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-10",
+     "imports_bn": 0.072,
+     "duties_mn": 36.0,
+     "share_pct": 0.2,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-11",
+     "imports_bn": 0.135,
+     "duties_mn": 67.5,
+     "share_pct": 0.3,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-12",
+     "imports_bn": 0.061,
+     "duties_mn": 30.3,
+     "share_pct": 0.1,
+     "yoy_pct": null
+    },
+    {
+     "period": "2024-01",
+     "imports_bn": 0.101,
+     "duties_mn": 50.7,
+     "share_pct": 0.3,
+     "yoy_pct": -18.6
+    },
+    {
+     "period": "2024-02",
+     "imports_bn": 0.06,
+     "duties_mn": 30.1,
+     "share_pct": 0.1,
+     "yoy_pct": -6.1
+    },
+    {
+     "period": "2024-03",
+     "imports_bn": 0.083,
+     "duties_mn": 41.6,
+     "share_pct": 0.2,
+     "yoy_pct": -32.2
+    },
+    {
+     "period": "2024-04",
+     "imports_bn": 0.075,
+     "duties_mn": 37.3,
+     "share_pct": 0.2,
+     "yoy_pct": 35.4
+    },
+    {
+     "period": "2024-05",
+     "imports_bn": 0.135,
+     "duties_mn": 67.3,
+     "share_pct": 0.3,
+     "yoy_pct": 26.7
+    },
+    {
+     "period": "2024-06",
+     "imports_bn": 0.085,
+     "duties_mn": 42.7,
+     "share_pct": 0.2,
+     "yoy_pct": -28.1
+    },
+    {
+     "period": "2024-07",
+     "imports_bn": 0.142,
+     "duties_mn": 71.2,
+     "share_pct": 0.3,
+     "yoy_pct": 97.5
+    },
+    {
+     "period": "2024-08",
+     "imports_bn": 0.071,
+     "duties_mn": 35.3,
+     "share_pct": 0.1,
+     "yoy_pct": -44.9
+    },
+    {
+     "period": "2024-09",
+     "imports_bn": 0.115,
+     "duties_mn": 57.5,
+     "share_pct": 0.3,
+     "yoy_pct": -12.7
+    },
+    {
+     "period": "2024-10",
+     "imports_bn": 0.158,
+     "duties_mn": 78.9,
+     "share_pct": 0.4,
+     "yoy_pct": 119.1
+    },
+    {
+     "period": "2024-11",
+     "imports_bn": 0.128,
+     "duties_mn": 64.2,
+     "share_pct": 0.3,
+     "yoy_pct": -5.0
+    },
+    {
+     "period": "2024-12",
+     "imports_bn": 0.127,
+     "duties_mn": 63.6,
+     "share_pct": 0.3,
+     "yoy_pct": 110.1
+    },
+    {
+     "period": "2025-01",
+     "imports_bn": 0.145,
+     "duties_mn": 72.4,
+     "share_pct": 0.3,
+     "yoy_pct": 42.8
+    },
+    {
+     "period": "2025-02",
+     "imports_bn": 0.102,
+     "duties_mn": 50.9,
+     "share_pct": 0.2,
+     "yoy_pct": 68.7
+    },
+    {
+     "period": "2025-03",
+     "imports_bn": 0.115,
+     "duties_mn": 57.7,
+     "share_pct": 0.2,
+     "yoy_pct": 38.8
+    },
+    {
+     "period": "2025-04",
+     "imports_bn": 0.126,
+     "duties_mn": 63.0,
+     "share_pct": 0.2,
+     "yoy_pct": 69.0
+    },
+    {
+     "period": "2025-05",
+     "imports_bn": 0.066,
+     "duties_mn": 33.1,
+     "share_pct": 0.1,
+     "yoy_pct": -50.9
+    },
+    {
+     "period": "2025-06",
+     "imports_bn": 0.12,
+     "duties_mn": 60.0,
+     "share_pct": 0.2,
+     "yoy_pct": 40.6
+    },
+    {
+     "period": "2025-07",
+     "imports_bn": 0.068,
+     "duties_mn": 34.1,
+     "share_pct": 0.1,
+     "yoy_pct": -52.1
+    },
+    {
+     "period": "2025-08",
+     "imports_bn": 0.136,
+     "duties_mn": 67.9,
+     "share_pct": 0.3,
+     "yoy_pct": 92.5
+    },
+    {
+     "period": "2025-09",
+     "imports_bn": 0.08,
+     "duties_mn": 40.2,
+     "share_pct": 0.2,
+     "yoy_pct": -30.0
+    },
+    {
+     "period": "2025-10",
+     "imports_bn": 0.083,
+     "duties_mn": 41.7,
+     "share_pct": 0.2,
+     "yoy_pct": -47.1
+    },
+    {
+     "period": "2025-11",
+     "imports_bn": 0.084,
+     "duties_mn": 41.9,
+     "share_pct": 0.2,
+     "yoy_pct": -34.7
+    },
+    {
+     "period": "2025-12",
+     "imports_bn": 0.142,
+     "duties_mn": 70.9,
+     "share_pct": 0.3,
+     "yoy_pct": 11.4
+    },
+    {
+     "period": "2026-01",
+     "imports_bn": 0.185,
+     "duties_mn": 92.6,
+     "share_pct": 0.3,
+     "yoy_pct": 27.8
+    },
+    {
+     "period": "2026-02",
+     "imports_bn": 0.196,
+     "duties_mn": 97.8,
+     "share_pct": 0.4,
+     "yoy_pct": 92.4
+    },
+    {
+     "period": "2026-03",
+     "imports_bn": 0.114,
+     "duties_mn": 56.9,
+     "share_pct": 0.2,
+     "yoy_pct": -1.3
+    },
+    {
+     "period": "2026-04",
+     "imports_bn": 0.12,
+     "duties_mn": 60.0,
+     "share_pct": 0.2,
+     "yoy_pct": -4.8
+    },
+    {
+     "period": "2026-05",
+     "imports_bn": 0.182,
+     "duties_mn": 90.8,
+     "share_pct": 0.3,
+     "yoy_pct": 174.6
+    },
+    {
+     "period": "2026-06",
+     "imports_bn": 0.187,
+     "duties_mn": 93.3,
+     "share_pct": 0.3,
+     "yoy_pct": 55.4
+    },
+    {
+     "period": "2026-07",
+     "imports_bn": 0.089,
+     "duties_mn": 44.7,
+     "share_pct": 0.1,
+     "yoy_pct": 31.1
+    },
+    {
+     "period": "2026-08",
+     "imports_bn": 0.095,
+     "duties_mn": 47.5,
+     "share_pct": 0.2,
+     "yoy_pct": -30.1
+    },
+    {
+     "period": "2026-09",
+     "imports_bn": 0.123,
+     "duties_mn": 61.7,
+     "share_pct": 0.2,
+     "yoy_pct": 53.5
+    }
+   ]
+  },
+  {
+   "id": "autos",
+   "en": "Autos and parts",
+   "es": "Autos y autopartes",
+   "rate": "25% (non-U.S. content for USMCA-qualifying)",
+   "series": [
+    {
+     "period": "2023-01",
+     "imports_bn": 4.017,
+     "duties_mn": 200.9,
+     "share_pct": 11.5,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-02",
+     "imports_bn": 5.527,
+     "duties_mn": 276.4,
+     "share_pct": 14.4,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-03",
+     "imports_bn": 4.491,
+     "duties_mn": 224.6,
+     "share_pct": 12.1,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-04",
+     "imports_bn": 4.07,
+     "duties_mn": 203.5,
+     "share_pct": 11.3,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-05",
+     "imports_bn": 4.129,
+     "duties_mn": 206.5,
+     "share_pct": 10.8,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-06",
+     "imports_bn": 6.296,
+     "duties_mn": 314.8,
+     "share_pct": 15.3,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-07",
+     "imports_bn": 4.265,
+     "duties_mn": 213.3,
+     "share_pct": 11.1,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-08",
+     "imports_bn": 5.049,
+     "duties_mn": 252.4,
+     "share_pct": 12.6,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-09",
+     "imports_bn": 3.845,
+     "duties_mn": 192.3,
+     "share_pct": 10.1,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-10",
+     "imports_bn": 4.726,
+     "duties_mn": 236.3,
+     "share_pct": 11.5,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-11",
+     "imports_bn": 3.571,
+     "duties_mn": 178.6,
+     "share_pct": 8.9,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-12",
+     "imports_bn": 5.179,
+     "duties_mn": 259.0,
+     "share_pct": 11.9,
+     "yoy_pct": null
+    },
+    {
+     "period": "2024-01",
+     "imports_bn": 3.93,
+     "duties_mn": 196.5,
+     "share_pct": 9.9,
+     "yoy_pct": -2.2
+    },
+    {
+     "period": "2024-02",
+     "imports_bn": 5.092,
+     "duties_mn": 254.6,
+     "share_pct": 12.0,
+     "yoy_pct": -7.9
+    },
+    {
+     "period": "2024-03",
+     "imports_bn": 5.001,
+     "duties_mn": 250.1,
+     "share_pct": 11.9,
+     "yoy_pct": 11.4
+    },
+    {
+     "period": "2024-04",
+     "imports_bn": 7.249,
+     "duties_mn": 362.4,
+     "share_pct": 16.3,
+     "yoy_pct": 78.1
+    },
+    {
+     "period": "2024-05",
+     "imports_bn": 5.206,
+     "duties_mn": 260.3,
+     "share_pct": 11.0,
+     "yoy_pct": 26.1
+    },
+    {
+     "period": "2024-06",
+     "imports_bn": 5.28,
+     "duties_mn": 264.0,
+     "share_pct": 11.9,
+     "yoy_pct": -16.1
+    },
+    {
+     "period": "2024-07",
+     "imports_bn": 6.974,
+     "duties_mn": 348.7,
+     "share_pct": 14.7,
+     "yoy_pct": 63.5
+    },
+    {
+     "period": "2024-08",
+     "imports_bn": 5.667,
+     "duties_mn": 283.3,
+     "share_pct": 12.0,
+     "yoy_pct": 12.2
+    },
+    {
+     "period": "2024-09",
+     "imports_bn": 4.414,
+     "duties_mn": 220.7,
+     "share_pct": 9.6,
+     "yoy_pct": 14.8
+    },
+    {
+     "period": "2024-10",
+     "imports_bn": 4.704,
+     "duties_mn": 235.2,
+     "share_pct": 10.6,
+     "yoy_pct": -0.5
+    },
+    {
+     "period": "2024-11",
+     "imports_bn": 7.5,
+     "duties_mn": 375.0,
+     "share_pct": 15.9,
+     "yoy_pct": 110.0
+    },
+    {
+     "period": "2024-12",
+     "imports_bn": 4.563,
+     "duties_mn": 228.2,
+     "share_pct": 9.6,
+     "yoy_pct": -11.9
+    },
+    {
+     "period": "2025-01",
+     "imports_bn": 5.986,
+     "duties_mn": 299.3,
+     "share_pct": 12.5,
+     "yoy_pct": 52.3
+    },
+    {
+     "period": "2025-02",
+     "imports_bn": 6.297,
+     "duties_mn": 314.9,
+     "share_pct": 12.7,
+     "yoy_pct": 23.7
+    },
+    {
+     "period": "2025-03",
+     "imports_bn": 6.884,
+     "duties_mn": 344.2,
+     "share_pct": 13.2,
+     "yoy_pct": 37.6
+    },
+    {
+     "period": "2025-04",
+     "imports_bn": 7.168,
+     "duties_mn": 358.4,
+     "share_pct": 13.9,
+     "yoy_pct": -1.1
+    },
+    {
+     "period": "2025-05",
+     "imports_bn": 8.192,
+     "duties_mn": 409.6,
+     "share_pct": 15.6,
+     "yoy_pct": 57.4
+    },
+    {
+     "period": "2025-06",
+     "imports_bn": 6.811,
+     "duties_mn": 340.6,
+     "share_pct": 13.2,
+     "yoy_pct": 29.0
+    },
+    {
+     "period": "2025-07",
+     "imports_bn": 7.619,
+     "duties_mn": 381.0,
+     "share_pct": 13.8,
+     "yoy_pct": 9.2
+    },
+    {
+     "period": "2025-08",
+     "imports_bn": 5.9,
+     "duties_mn": 295.0,
+     "share_pct": 11.1,
+     "yoy_pct": 4.1
+    },
+    {
+     "period": "2025-09",
+     "imports_bn": 5.246,
+     "duties_mn": 262.3,
+     "share_pct": 13.3,
+     "yoy_pct": 18.9
+    },
+    {
+     "period": "2025-10",
+     "imports_bn": 4.482,
+     "duties_mn": 224.1,
+     "share_pct": 8.6,
+     "yoy_pct": -4.7
+    },
+    {
+     "period": "2025-11",
+     "imports_bn": 6.697,
+     "duties_mn": 334.8,
+     "share_pct": 12.7,
+     "yoy_pct": -10.7
+    },
+    {
+     "period": "2025-12",
+     "imports_bn": 8.215,
+     "duties_mn": 410.7,
+     "share_pct": 14.6,
+     "yoy_pct": 80.0
+    },
+    {
+     "period": "2026-01",
+     "imports_bn": 5.943,
+     "duties_mn": 297.2,
+     "share_pct": 10.7,
+     "yoy_pct": -0.7
+    },
+    {
+     "period": "2026-02",
+     "imports_bn": 7.832,
+     "duties_mn": 391.6,
+     "share_pct": 14.0,
+     "yoy_pct": 24.4
+    },
+    {
+     "period": "2026-03",
+     "imports_bn": 5.738,
+     "duties_mn": 286.9,
+     "share_pct": 10.3,
+     "yoy_pct": -16.6
+    },
+    {
+     "period": "2026-04",
+     "imports_bn": 5.236,
+     "duties_mn": 261.8,
+     "share_pct": 9.7,
+     "yoy_pct": -27.0
+    },
+    {
+     "period": "2026-05",
+     "imports_bn": 9.201,
+     "duties_mn": 460.1,
+     "share_pct": 15.3,
+     "yoy_pct": 12.3
+    },
+    {
+     "period": "2026-06",
+     "imports_bn": 9.122,
+     "duties_mn": 456.1,
+     "share_pct": 15.1,
+     "yoy_pct": 33.9
+    },
+    {
+     "period": "2026-07",
+     "imports_bn": 7.551,
+     "duties_mn": 377.6,
+     "share_pct": 12.2,
+     "yoy_pct": -0.9
+    },
+    {
+     "period": "2026-08",
+     "imports_bn": 5.622,
+     "duties_mn": 281.1,
+     "share_pct": 9.7,
+     "yoy_pct": -4.7
+    },
+    {
+     "period": "2026-09",
+     "imports_bn": 7.62,
+     "duties_mn": 381.0,
+     "share_pct": 14.2,
+     "yoy_pct": 45.2
+    }
+   ]
+  },
+  {
+   "id": "trucks",
+   "en": "Medium and heavy trucks",
+   "es": "Camiones medianos y pesados",
+   "rate": "25% (buses 10%)",
+   "series": [
+    {
+     "period": "2023-01",
+     "imports_bn": 3.701,
+     "duties_mn": 185.0,
+     "share_pct": 10.6,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-02",
+     "imports_bn": 5.164,
+     "duties_mn": 258.2,
+     "share_pct": 13.5,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-03",
+     "imports_bn": 4.396,
+     "duties_mn": 219.8,
+     "share_pct": 11.9,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-04",
+     "imports_bn": 3.477,
+     "duties_mn": 173.8,
+     "share_pct": 9.7,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-05",
+     "imports_bn": 5.552,
+     "duties_mn": 277.6,
+     "share_pct": 14.5,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-06",
+     "imports_bn": 6.77,
+     "duties_mn": 338.5,
+     "share_pct": 16.4,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-07",
+     "imports_bn": 5.697,
+     "duties_mn": 284.9,
+     "share_pct": 14.9,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-08",
+     "imports_bn": 5.914,
+     "duties_mn": 295.7,
+     "share_pct": 14.7,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-09",
+     "imports_bn": 4.249,
+     "duties_mn": 212.4,
+     "share_pct": 11.2,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-10",
+     "imports_bn": 6.061,
+     "duties_mn": 303.0,
+     "share_pct": 14.7,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-11",
+     "imports_bn": 5.39,
+     "duties_mn": 269.5,
+     "share_pct": 13.4,
+     "yoy_pct": null
+    },
+    {
+     "period": "2023-12",
+     "imports_bn": 7.947,
+     "duties_mn": 397.4,
+     "share_pct": 18.2,
+     "yoy_pct": null
+    },
+    {
+     "period": "2024-01",
+     "imports_bn": 4.006,
+     "duties_mn": 200.3,
+     "share_pct": 10.1,
+     "yoy_pct": 8.2
+    },
+    {
+     "period": "2024-02",
+     "imports_bn": 5.369,
+     "duties_mn": 268.4,
+     "share_pct": 12.6,
+     "yoy_pct": 4.0
+    },
+    {
+     "period": "2024-03",
+     "imports_bn": 5.364,
+     "duties_mn": 268.2,
+     "share_pct": 12.8,
+     "yoy_pct": 22.0
+    },
+    {
+     "period": "2024-04",
+     "imports_bn": 5.689,
+     "duties_mn": 284.4,
+     "share_pct": 12.8,
+     "yoy_pct": 63.6
+    },
+    {
+     "period": "2024-05",
+     "imports_bn": 8.522,
+     "duties_mn": 426.1,
+     "share_pct": 18.0,
+     "yoy_pct": 53.5
+    },
+    {
+     "period": "2024-06",
+     "imports_bn": 4.397,
+     "duties_mn": 219.8,
+     "share_pct": 9.9,
+     "yoy_pct": -35.1
+    },
+    {
+     "period": "2024-07",
+     "imports_bn": 6.951,
+     "duties_mn": 347.5,
+     "share_pct": 14.7,
+     "yoy_pct": 22.0
+    },
+    {
+     "period": "2024-08",
+     "imports_bn": 6.773,
+     "duties_mn": 338.7,
+     "share_pct": 14.4,
+     "yoy_pct": 14.5
+    },
+    {
+     "period": "2024-09",
+     "imports_bn": 6.796,
+     "duties_mn": 339.8,
+     "share_pct": 14.8,
+     "yoy_pct": 60.0
+    },
+    {
+     "period": "2024-10",
+     "imports_bn": 5.649,
+     "duties_mn": 282.5,
+     "share_pct": 12.7,
+     "yoy_pct": -6.8
+    },
+    {
+     "period": "2024-11",
+     "imports_bn": 3.991,
+     "duties_mn": 199.5,
+     "share_pct": 8.4,
+     "yoy_pct": -26.0
+    },
+    {
+     "period": "2024-12",
+     "imports_bn": 5.961,
+     "duties_mn": 298.0,
+     "share_pct": 12.5,
+     "yoy_pct": -25.0
+    },
+    {
+     "period": "2025-01",
+     "imports_bn": 5.92,
+     "duties_mn": 296.0,
+     "share_pct": 12.4,
+     "yoy_pct": 47.8
+    },
+    {
+     "period": "2025-02",
+     "imports_bn": 6.479,
+     "duties_mn": 324.0,
+     "share_pct": 13.1,
+     "yoy_pct": 20.7
+    },
+    {
+     "period": "2025-03",
+     "imports_bn": 6.899,
+     "duties_mn": 344.9,
+     "share_pct": 13.3,
+     "yoy_pct": 28.6
+    },
+    {
+     "period": "2025-04",
+     "imports_bn": 6.436,
+     "duties_mn": 321.8,
+     "share_pct": 12.5,
+     "yoy_pct": 13.1
+    },
+    {
+     "period": "2025-05",
+     "imports_bn": 6.261,
+     "duties_mn": 313.1,
+     "share_pct": 11.9,
+     "yoy_pct": -26.5
+    },
+    {
+     "period": "2025-06",
+     "imports_bn": 6.438,
+     "duties_mn": 321.9,
+     "share_pct": 12.5,
+     "yoy_pct": 46.4
+    },
+    {
+     "period": "2025-07",
+     "imports_bn": 9.886,
+     "duties_mn": 494.3,
+     "share_pct": 17.9,
+     "yoy_pct": 42.2
+    },
+    {
+     "period": "2025-08",
+     "imports_bn": 7.0,
+     "duties_mn": 350.0,
+     "share_pct": 13.2,
+     "yoy_pct": 3.3
+    },
+    {
+     "period": "2025-09",
+     "imports_bn": 5.361,
+     "duties_mn": 268.1,
+     "share_pct": 13.6,
+     "yoy_pct": -21.1
+    },
+    {
+     "period": "2025-10",
+     "imports_bn": 7.832,
+     "duties_mn": 391.6,
+     "share_pct": 15.0,
+     "yoy_pct": 38.6
+    },
+    {
+     "period": "2025-11",
+     "imports_bn": 6.173,
+     "duties_mn": 308.6,
+     "share_pct": 11.7,
+     "yoy_pct": 54.7
+    },
+    {
+     "period": "2025-12",
+     "imports_bn": 6.753,
+     "duties_mn": 337.6,
+     "share_pct": 12.0,
+     "yoy_pct": 13.3
+    },
+    {
+     "period": "2026-01",
+     "imports_bn": 6.675,
+     "duties_mn": 333.7,
+     "share_pct": 12.1,
+     "yoy_pct": 12.8
+    },
+    {
+     "period": "2026-02",
+     "imports_bn": 5.226,
+     "duties_mn": 261.3,
+     "share_pct": 9.4,
+     "yoy_pct": -19.3
+    },
+    {
+     "period": "2026-03",
+     "imports_bn": 7.482,
+     "duties_mn": 374.1,
+     "share_pct": 13.5,
+     "yoy_pct": 8.5
+    },
+    {
+     "period": "2026-04",
+     "imports_bn": 6.363,
+     "duties_mn": 318.1,
+     "share_pct": 11.8,
+     "yoy_pct": -1.1
+    },
+    {
+     "period": "2026-05",
+     "imports_bn": 8.284,
+     "duties_mn": 414.2,
+     "share_pct": 13.7,
+     "yoy_pct": 32.3
+    },
+    {
+     "period": "2026-06",
+     "imports_bn": 7.111,
+     "duties_mn": 355.6,
+     "share_pct": 11.7,
+     "yoy_pct": 10.5
+    },
+    {
+     "period": "2026-07",
+     "imports_bn": 9.227,
+     "duties_mn": 461.4,
+     "share_pct": 14.9,
+     "yoy_pct": -6.7
+    },
+    {
+     "period": "2026-08",
+     "imports_bn": 8.231,
+     "duties_mn": 411.6,
+     "share_pct": 14.2,
+     "yoy_pct": 17.6
+    },
+    {
+     "period": "2026-09",
+     "imports_bn": 6.328,
+     "duties_mn": 316.4,
+     "share_pct": 11.8,
+     "yoy_pct": 18.0
+    }
+   ]
+  }
+ ]
+}
