@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-17T22:08:15+00:00",
+ "run_at": "2026-11-18T14:24:48+00:00",
  "sources": {
   "census": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "banxico": {
    "ok": true,
-   "note": "usdmxn_fix=18.4677 (2026-11-17) [Tipo de cambio                                          Pesos por dólar E.U.A. Tipo de cambio para solventar obligaciones denominadas en moneda extranjera Fecha de determinación (FIX)], policy_rate=6.25 (2026-11-17) [Tasa objetivo], inpc=147.026 (2026-10-01) [IPC Por objeto del gasto                                                         Nacional I n d i c e   G e n e r a l], remittances=5362.191882 (2026-09-01) [Remesas Familiares Total]"
+   "note": "usdmxn_fix=18.4677 (2026-11-17) [Tipo de cambio                                          Pesos por dólar E.U.A. Tipo de cambio para solventar obligaciones denominadas en moneda extranjera Fecha de determinación (FIX)], policy_rate=6.25 (2026-11-18) [Tasa objetivo], inpc=147.026 (2026-10-01) [IPC Por objeto del gasto                                                         Nacional I n d i c e   G e n e r a l], remittances=5362.191882 (2026-09-01) [Remesas Familiares Total]"
   },
   "inegi": {
    "ok": true,
