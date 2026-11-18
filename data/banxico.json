@@ -7932,6 +7932,10 @@
     {
      "date": "2026-11-17",
      "value": 18.4677
+    },
+    {
+     "date": "2026-11-18",
+     "value": 18.6723
     }
    ]
   },
@@ -20191,10 +20195,10 @@
    "en": "USD/MXN (FIX)",
    "es": "Tipo de cambio FIX",
    "unit": "MXN per USD",
-   "date": "2026-11-17",
-   "value": 18.4677,
-   "prev": 18.5525,
-   "year_ago": 18.3262
+   "date": "2026-11-18",
+   "value": 18.6723,
+   "prev": 18.4677,
+   "year_ago": 18.3728
   },
   "policy_rate": {
    "title_banxico": "Tasa objetivo",
