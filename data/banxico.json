@@ -19415,6 +19415,10 @@
     {
      "date": "2026-11-18",
      "value": 6.25
+    },
+    {
+     "date": "2026-11-19",
+     "value": 6.25
     }
    ]
   },
@@ -20205,7 +20209,7 @@
    "en": "Banxico policy rate",
    "es": "Tasa objetivo de Banxico",
    "unit": "%",
-   "date": "2026-11-18",
+   "date": "2026-11-19",
    "value": 6.25,
    "prev": 6.25,
    "year_ago": 7.25
